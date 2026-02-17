@@ -16,7 +16,7 @@ Pipeline stages
 
 Basic usage
 - Build: make -C src
-- Run: ./src/reformat input.ppm output.png
+- Run: ./image-compressor/reformat input.ppm output.png
 
 Credits
 - Group project by 4 people.
